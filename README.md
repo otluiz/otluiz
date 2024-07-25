@@ -1,7 +1,8 @@
 # 👋 Hello! I'm Otluiz
 
 ### About Me
-I'm a passionate researcher and developer with a strong interest in Metaheuristic Algorithms and optimization techniques. My primary focus is on C++ and Python development, and I'm constantly learning and experimenting with new algorithms to solve complex optimization problems.
+I'm a programmer with some experience, passionate about AI and various development projects. I work in infrastructure and am currently pursuing a PhD in Artificial Intelligence and Metaheuristics.
+
 
 ### 🔭 Current Projects
 - **PDF Extractor and Algorithm Comparison**: A project to extract text from PDF files and compare algorithm performance on benchmark functions. [Check it out](https://github.com/otluiz/pdfExtractor)
