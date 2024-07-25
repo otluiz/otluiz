@@ -8,6 +8,33 @@ I'm a passionate researcher and developer with a strong interest in Metaheuristi
 - **newReader**: A project to generate long audio files using the Google Text-to-Speech (gTTs) library. [Check it out](https://github.com/otluiz/newReader)
 - **Metaheuristic Algorithms**: Research and development of various metaheuristic algorithms such as Genetic Algorithms, Particle Swarm Optimization, and Ant Colony Optimization.
 
+#### Other Projects
+
+- **Covid-19_kaggle**: None. [Check it out](https://github.com/otluiz/Covid-19_kaggle)
+- **Cpp**: Multiple Implementations in C++. [Check it out](https://github.com/otluiz/Cpp)
+- **CryptoMoedas**: Um repositório para estudos de Cripto moedas. [Check it out](https://github.com/otluiz/CryptoMoedas)
+- **cryptoQuotes**: A high-level API client for easy access to cryptocurrency market data, including detailed OHLC-V (Open, High, Low, Close, Volume) candles and sentiment indicators. Offers flexible data granularity (seconds to months) from major exchanges, ensuring reliable and stable market information without low-level API calls. [Check it out](https://github.com/otluiz/cryptoQuotes)
+- **energyFunctions**: Código para funções de energia para serem utilizadas na equação de Schrödinger. [Check it out](https://github.com/otluiz/energyFunctions)
+- **Esqueleto-Artigo**: Manifesto para pesquisa do mestrado. [Check it out](https://github.com/otluiz/Esqueleto-Artigo)
+- **flashcards**: Gerar flashcards a partir de codigicação. [Check it out](https://github.com/otluiz/flashcards)
+- **Fss**: Repositório para compartilhar as novas versões do Fss. [Check it out](https://github.com/otluiz/Fss)
+- **GPUxCPU**: Teste de carga comparativo entre GPU x CPU com qubits 2, 3, 4, 5, até falhar. [Check it out](https://github.com/otluiz/GPUxCPU)
+- **Instagao**: Repositório para arquivos do projeto Instagão. [Check it out](https://github.com/otluiz/Instagao)
+- **Latex**: Documentos Latex, tabelas, gráficos, tipo tex e pdf. [Check it out](https://github.com/otluiz/Latex)
+- **opencv**: Open Source Computer Vision Library. [Check it out](https://github.com/otluiz/opencv)
+- **Othon-Oliveira**: None. [Check it out](https://github.com/otluiz/Othon-Oliveira)
+- **otluiz**: Config files for my GitHub profile. [Check it out](https://github.com/otluiz/otluiz)
+- **pfSense**: Tela de login para o PFSense. [Check it out](https://github.com/otluiz/pfSense)
+- **Predadores**: A possible algorithm for all metaheuristic of the swarm intelligence. [Check it out](https://github.com/otluiz/Predadores)
+- **PrimeiroArtigo**: Primeiro artigo para dissertação de mestrado. [Check it out](https://github.com/otluiz/PrimeiroArtigo)
+- **Proa**: Repositório para arquivos do projeto Proa. [Check it out](https://github.com/otluiz/Proa)
+- **Python**: None. [Check it out](https://github.com/otluiz/Python)
+- **Py_Hopfield**: None. [Check it out](https://github.com/otluiz/Py_Hopfield)
+- **qutip-tutorials**: QuTiP Tutorials-clone. [Check it out](https://github.com/otluiz/qutip-tutorials)
+- **R-twitters**: Workspace dos projetos em R. [Check it out](https://github.com/otluiz/R-twitters)
+- **RCpp**: Algorithms to happy end. [Check it out](https://github.com/otluiz/RCpp)
+
+
 ### 🌱 Learning and Development
 I'm currently deepening my knowledge in:
 - Advanced Python programming
