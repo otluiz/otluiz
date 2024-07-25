@@ -1,4 +1,4 @@
-# 👋 Hello! I'm Otluiz
+# 👋 Hello! I'm Othon Luiz
 
 ### About Me
 I'm a programmer with some experience, passionate about AI and various development projects. I work in infrastructure and am currently pursuing a PhD in Artificial Intelligence and Metaheuristics.
