@@ -5,6 +5,8 @@ I'm a programmer with some experience, passionate about AI and various developme
 
 
 ### 🔭 Current Projects
+- **Algoritmo dos Mergulhadores**: Implementação em Common Lisp para busca de mínimos globais. [Check it out](https://github.com/otluiz/Mergulhadores)
+- **Instagao**: Repositório para arquivos do projeto Instagão. [Check it out](https://github.com/otluiz/Instagao)
 - **PDF Extractor and Algorithm Comparison**: A project to extract text from PDF files and compare algorithm performance on benchmark functions. [Check it out](https://github.com/otluiz/pdfExtractor)
 - **newReader**: A project to generate long audio files using the Google Text-to-Speech (gTTs) library. [Check it out](https://github.com/otluiz/newReader)
 - **Metaheuristic Algorithms**: Research and development of various metaheuristic algorithms such as Genetic Algorithms, Particle Swarm Optimization, and Ant Colony Optimization.
@@ -20,7 +22,6 @@ I'm a programmer with some experience, passionate about AI and various developme
 - **flashcards**: Gerar flashcards a partir de codigicação. [Check it out](https://github.com/otluiz/flashcards)
 - **Fss**: Repositório para compartilhar as novas versões do Fss. [Check it out](https://github.com/otluiz/Fss)
 - **GPUxCPU**: Teste de carga comparativo entre GPU x CPU com qubits 2, 3, 4, 5, até falhar. [Check it out](https://github.com/otluiz/GPUxCPU)
-- **Instagao**: Repositório para arquivos do projeto Instagão. [Check it out](https://github.com/otluiz/Instagao)
 - **Latex**: Documentos Latex, tabelas, gráficos, tipo tex e pdf. [Check it out](https://github.com/otluiz/Latex)
 - **opencv**: Open Source Computer Vision Library. [Check it out](https://github.com/otluiz/opencv)
 - **Othon-Oliveira**: None. [Check it out](https://github.com/otluiz/Othon-Oliveira)
@@ -72,4 +73,3 @@ I'm open to collaborations on projects involving:
 - **Databases**: MySQL, PostgreSQL, MongoDB
 
 Feel free to connect and explore possibilities for collaboration. Let's create something amazing together!
-
