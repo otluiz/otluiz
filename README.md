@@ -5,7 +5,7 @@ I'm a programmer with some experience, passionate about AI and various developme
 
 
 ### 🔭 Current Projects
-- **Algoritmo dos Mergulhadores**: Implementação em Common Lisp para busca de mínimos globais. [Check it out](https://github.com/otluiz/Mergulhadores)
+- **Algoritmo dos Mergulhadores**: Implementação agora em Python (primeiras versões: Common Lisp) para busca de mínimos globais. [Check it out](https://github.com/otluiz/Mergulhadores)
 - **Instagao**: Repositório para arquivos do projeto Instagão. [Check it out](https://github.com/otluiz/Instagao)
 - **PDF Extractor and Algorithm Comparison**: A project to extract text from PDF files and compare algorithm performance on benchmark functions. [Check it out](https://github.com/otluiz/pdfExtractor)
 - **newReader**: A project to generate long audio files using the Google Text-to-Speech (gTTs) library. [Check it out](https://github.com/otluiz/newReader)
