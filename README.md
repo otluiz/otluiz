@@ -10,6 +10,7 @@ I'm a programmer with some experience, passionate about AI and various developme
 - **PDF Extractor and Algorithm Comparison**: A project to extract text from PDF files and compare algorithm performance on benchmark functions. [Check it out](https://github.com/otluiz/pdfExtractor)
 - **newReader**: A project to generate long audio files using the Google Text-to-Speech (gTTs) library. [Check it out](https://github.com/otluiz/newReader)
 - **Metaheuristic Algorithms**: Research and development of various metaheuristic algorithms such as Genetic Algorithms, Particle Swarm Optimization, and Ant Colony Optimization.
+- **GPUxCPU**: Teste de carga comparativo entre GPU x CPU com qubits 2, 3, 4, 5, até falhar. [Check it out](https://github.com/otluiz/GPUxCPU)
 
 #### Other Projects
 
@@ -21,7 +22,6 @@ I'm a programmer with some experience, passionate about AI and various developme
 - **Esqueleto-Artigo**: Manifesto para pesquisa do mestrado. [Check it out](https://github.com/otluiz/Esqueleto-Artigo)
 - **flashcards**: Gerar flashcards a partir de codigicação. [Check it out](https://github.com/otluiz/flashcards)
 - **Fss**: Repositório para compartilhar as novas versões do Fss. [Check it out](https://github.com/otluiz/Fss)
-- **GPUxCPU**: Teste de carga comparativo entre GPU x CPU com qubits 2, 3, 4, 5, até falhar. [Check it out](https://github.com/otluiz/GPUxCPU)
 - **Latex**: Documentos Latex, tabelas, gráficos, tipo tex e pdf. [Check it out](https://github.com/otluiz/Latex)
 - **opencv**: Open Source Computer Vision Library. [Check it out](https://github.com/otluiz/opencv)
 - **Othon-Oliveira**: None. [Check it out](https://github.com/otluiz/Othon-Oliveira)
