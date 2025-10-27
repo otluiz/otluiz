@@ -5,6 +5,7 @@ I'm a programmer with some experience, passionate about AI and various developme
 
 
 ### 🔭 Current Projects
+- **OCS API Project**: Solução de coleta e visualização de inventário desenvolvida para integração com o **OCS Inventory**[Check it out](https://github.com/otluiz/ocs-api-project-new)
 - **Algoritmo dos Mergulhadores**: Implementação agora em Python (primeiras versões: Common Lisp) para busca de mínimos globais. [Check it out](https://github.com/otluiz/Mergulhadores)
 - **Fss**: Repositório para compartilhar as novas versões do algoritmo enxame de peixes: Fss. [Check it out](https://github.com/otluiz/Fss)
 - **Predadores**: A possible algorithm for all metaheuristic of the swarm intelligence. [Check it out](https://github.com/otluiz/Predadores)
