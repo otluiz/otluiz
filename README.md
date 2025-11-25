@@ -6,9 +6,9 @@ I'm a programmer with some experience, passionate about AI and various developme
 
 ### 🔭 Current Projects
 
-- **LexLearn**: LexLearn é uma plataforma SaaS educacional que processa documentos públicos (leis, decretos, regulamentos) e gera automaticamente questionários , flashcards e planilhas de estudo personalizadas usando IA generativa local (Ollama). **LexLearn**[Check it out](https://github.com/otluiz/LexLearn)
+- **LexLearn**: LexLearn é uma plataforma SaaS educacional que processa documentos públicos (leis, decretos, regulamentos) e gera automaticamente questionários , flashcards e planilhas de estudo personalizadas usando IA generativa local (Ollama). **LexLearn** [Check it out](https://github.com/otluiz/LexLearn)
 
-- **OCS API Project**: Solução de coleta e visualização de inventário desenvolvida para integração com o **OCS Inventory**[Check it out](https://github.com/otluiz/ocs-api-project-new)
+- **OCS API Project**: Solução de coleta e visualização de inventário desenvolvida para integração com o **OCS Inventory** [Check it out](https://github.com/otluiz/ocs-api-project-new)
 - **Algoritmo dos Mergulhadores**: Implementação agora em Python (primeiras versões: Common Lisp) para busca de mínimos globais. [Check it out](https://github.com/otluiz/Mergulhadores)
 - **Fss**: Repositório para compartilhar as novas versões do algoritmo enxame de peixes: Fss. [Check it out](https://github.com/otluiz/Fss)
 - **Predadores**: A possible algorithm for all metaheuristic of the swarm intelligence. [Check it out](https://github.com/otluiz/Predadores)
