@@ -6,6 +6,10 @@ I'm a programmer with some experience, passionate about AI and various developme
 
 ### 🔭 Current Projects
 
+- **Interactive-tree**: Interactive-tree é uma proposta de evolução do comando `tree` para permitir interação com a árvore de diretórios **Interactive-tree** [Check it out](https://github.com/otluiz/Interactive-tree)
+
+- **LexCirpus**: LexCorpus é uma plataforma para fazer scrapy a provas em repositório aberto ao público. **LexCorpus** [Check it out](https://github.com/otluiz/LexCorpus)
+
 - **LexLearn**: LexLearn é uma plataforma SaaS educacional que processa documentos públicos (leis, decretos, regulamentos) e gera automaticamente questionários , flashcards e planilhas de estudo personalizadas usando IA generativa local (Ollama). **LexLearn** [Check it out](https://github.com/otluiz/LexLearn)
 
 - **OCS API Project**: Solução de coleta e visualização de inventário desenvolvida para integração com o **OCS Inventory** [Check it out](https://github.com/otluiz/ocs-api-project-new)
